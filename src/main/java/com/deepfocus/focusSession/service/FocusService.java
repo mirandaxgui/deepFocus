@@ -1,4 +1,4 @@
-package com.deepfocus.service;
+package com.deepfocus.focusSession.service;
 
 import java.util.UUID;
 
